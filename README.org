@@ -142,8 +142,9 @@ tempo and song selection.
    :CUSTOM_ID: website
    :END:
 
-Website: [[https://ckwojai.github.io/EE183_JamBand/index.html]] The drum micro
-controller (Master) is connected to a home Wifi. Go into the router
+Website: [[https://ckwojai.github.io/EE183_JamBand/index.html]] 
+
+The drum micro-controller (Master) is connected to a home Wifi. Go into the router
 settings and do port forwarding at port 80 (this is done in the code).
 You can use a service such as www.whatsmyip.org tofind your IP address.
 This IP Address can be used by anyone who wants to access your robot
