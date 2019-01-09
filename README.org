@@ -1,3 +1,6 @@
+* Note:
+ we made two seperate websites and combined them. My contributions included the homepage and the presentation page.
+
 #+OPTIONS: /n:t
 * [[https://ckwojai.github.io/EE183_JamBand/index.html][Landing Page]]
   - Check out our [[https://ckwojai.github.io/EE183_JamBand/documentation/documentation.html][step-by-step guide]]
