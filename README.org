@@ -1,5 +1,6 @@
 * Note:
  we made two separate websites and combined them. My contributions included the homepage and the presentation page.
+ Most of the markdown readme and the serial connection between the ESP8266 websocket, arduino code and Matlab.
 
 #+OPTIONS: /n:t
 * [[https://ckwojai.github.io/EE183_JamBand/index.html][Landing Page]]
